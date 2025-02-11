@@ -97,3 +97,12 @@ precision: 0.399
 recall: 1.000
 normalized_precision: 0.398
 normalized_recall: 0.860
+
+V3:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.514
+recall: 0.514
+normalized_precision: 0.378
+normalized_recall: 0.340
