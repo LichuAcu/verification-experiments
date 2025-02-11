@@ -1,0 +1,99 @@
+
+4o:
+num problems: 100
+num samples: 15
+num judges: 3
+precision: 0.509
+recall: 0.573
+normalized_precision: 0.473
+normalized_recall: 0.454
+
+4o-mini:
+num problems: 100
+num samples: 15
+num judges: 3
+precision: 0.449
+recall: 0.669
+normalized_precision: 0.439
+normalized_recall: 0.532
+
+Qwen72B:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.459
+recall: 0.859
+normalized_precision: 0.462
+normalized_recall: 0.694
+
+Llama8B:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.405
+recall: 0.907
+normalized_precision: 0.396
+normalized_recall: 0.752
+
+Llama8B:
+num problems: 100
+num samples: 10
+num judges: 3
+precision: 0.404
+recall: 0.903
+normalized_precision: 0.399
+normalized_recall: 0.754
+
+Mistral7B:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.399
+recall: 1.000
+normalized_precision: 0.398
+normalized_recall: 0.860
+
+Mistral24B:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.400
+recall: 0.552
+normalized_precision: 0.380
+normalized_recall: 0.421
+
+Qwen7B:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.459
+recall: 0.652
+normalized_precision: 0.420
+normalized_recall: 0.504
+
+Llama70B:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.500
+recall: 0.774
+normalized_precision: 0.397
+normalized_recall: 0.390
+
+Gemma2-27B:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.425
+recall: 0.656
+normalized_precision: 0.390
+normalized_recall: 0.495
+
+Mistral7B:
+num problems: 100
+num samples: 10
+num judges: 1
+precision: 0.399
+recall: 1.000
+normalized_precision: 0.398
+normalized_recall: 0.860

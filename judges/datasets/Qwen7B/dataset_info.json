@@ -1,0 +1,28 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "verdict": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "answer_correct": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "problem_idx": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "sample_idx": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "judge_idx": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
